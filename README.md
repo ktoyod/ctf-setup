@@ -1,5 +1,8 @@
 # CTF Setup
 
+## Environments
+Ubuntu 20.04.1 LTS
+
 ## Usage
 ```sh
 $ git clone https://github.com
